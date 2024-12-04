@@ -21,4 +21,4 @@ The **Expose Future Events EventOn Endpoint** plugin adds a custom REST API endp
 1. Download the plugin or clone this repository.
    
    ```bash
-   
+   https://github.com/robbie-carragher/Expose-Endpoint.git
